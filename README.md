@@ -1,5 +1,6 @@
 # exemplos-de-promts-bom
 projeto para treinamento de promts
+
 Quero desenvolver um plano estratégico completo para uma loja de vendas online, com foco em maximizar conversões e transformar o maior número possível de visitantes em clientes. O objetivo é criar uma operação de vendas ativa e escalável, capaz de atrair pessoas através do site e das redes sociais, gerar interesse imediato e conduzir cada acesso até a finalização da compra.
 
 O plano deve incluir:
